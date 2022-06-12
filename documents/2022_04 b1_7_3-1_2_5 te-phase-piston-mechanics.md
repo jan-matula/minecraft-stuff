@@ -2,8 +2,6 @@
 
 (April 2022, by Jan & Spheres a.k.a. v3rtices)
 
-See [this document](https://hackmd.io/@pa-2w-2MT5iGybHuegbruw/BkaSMRHV9) for information on TE mechanics.
-
 ---
 
 ## General timing
